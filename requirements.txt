@@ -17,3 +17,4 @@ onnx==1.16.1
 onnxruntime
 lark
 faiss-cpu
+gunicorn
