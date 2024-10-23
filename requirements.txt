@@ -18,3 +18,4 @@ onnxruntime
 lark
 faiss-cpu
 gunicorn
+flask-cors
